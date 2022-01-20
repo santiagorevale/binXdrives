@@ -1,0 +1,14 @@
+name: binXdrives
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.0.0
+  - r-dplyr=1.0.7
+  - r-ggplot2=3.3.5
+  - r-logger=0.2.0
+  - r-optparse=1.6.6
+  - r-rlist=0.4.6.1
+  - r-stringr=1.4.0
+  - r-zeallot=0.1.0
