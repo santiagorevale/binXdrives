@@ -2,7 +2,7 @@
 
 This tool models the impact of a Bipartite Expression Drive (BED) on a population. The BED may be intended to spread 1) toxic proteins that sterilize BED-carrying females or 2) lethal seminal proteins that BED-carrying males transfer to females, killing them right after mating.
 
-The simulations produced for the publication have been individually packed into gzip files and can be found from [here](simulations/paper/). The commands to run each of them are detailed [here](simulations.md).
+The simulations produced for the publication have been packed into gzip files acording to the figure of the paper they correspond to and can be found [here](simulations/paper/). The commands to run each of them are detailed [here](simulations.md).
 
 
 ## Dependencies
